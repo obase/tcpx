@@ -1,4 +1,4 @@
-module github.com/obase/httpx
+module github.com/obase/grpcx
 
 go 1.12
 
