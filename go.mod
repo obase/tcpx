@@ -1,4 +1,4 @@
-module github.com/obase/grpcx
+module github.com/obase/tcpx
 
 go 1.12
 
